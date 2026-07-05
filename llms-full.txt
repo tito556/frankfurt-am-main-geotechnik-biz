@@ -1,0 +1,44 @@
+# Geotechnik — Frankfurt am Main
+
+> Geotechnical engineering services in Frankfurt am Main, Deutschland.
+
+## Services
+- [Anker](https://frankfurt-am-main.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://frankfurt-am-main.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://frankfurt-am-main.geotechnik.biz/aushub/)
+- [Aushub Monitoring](https://frankfurt-am-main.geotechnik.biz/aushub-monitoring/)
+- [Bodenverbesserung](https://frankfurt-am-main.geotechnik.biz/bodenverbesserung/)
+- [Boschungsstabilitat](https://frankfurt-am-main.geotechnik.biz/boschungsstabilitat/)
+- [Cbr Strasse](https://frankfurt-am-main.geotechnik.biz/cbr-strasse/)
+- [Cpt Versuch](https://frankfurt-am-main.geotechnik.biz/cpt-versuch/)
+- [Flexibler Belag](https://frankfurt-am-main.geotechnik.biz/flexibler-belag/)
+- [Geophysik](https://frankfurt-am-main.geotechnik.biz/geophysik/)
+- [Hange](https://frankfurt-am-main.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://frankfurt-am-main.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://frankfurt-am-main.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://frankfurt-am-main.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://frankfurt-am-main.geotechnik.biz/labor/)
+- [Labor In Situ](https://frankfurt-am-main.geotechnik.biz/labor-in-situ/)
+- [Masw](https://frankfurt-am-main.geotechnik.biz/masw/)
+- [Plattendruckversuch](https://frankfurt-am-main.geotechnik.biz/plattendruckversuch/)
+- [Ruttelverdichtung](https://frankfurt-am-main.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://frankfurt-am-main.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://frankfurt-am-main.geotechnik.biz/schottersaulen/)
+- [Seismik](https://frankfurt-am-main.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://frankfurt-am-main.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://frankfurt-am-main.geotechnik.biz/seismische-refraktion/)
+- [Starrer Belag](https://frankfurt-am-main.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://frankfurt-am-main.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://frankfurt-am-main.geotechnik.biz/stutzmauern/)
+- [Triaxialversuch](https://frankfurt-am-main.geotechnik.biz/triaxialversuch/)
+- [Untersuchung](https://frankfurt-am-main.geotechnik.biz/untersuchung/)
+- [Verflussigung](https://frankfurt-am-main.geotechnik.biz/verflussigung/)
+- [Weichbodentunnel](https://frankfurt-am-main.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://frankfurt-am-main.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://frankfurt-am-main.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Frankfurt am Main, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
